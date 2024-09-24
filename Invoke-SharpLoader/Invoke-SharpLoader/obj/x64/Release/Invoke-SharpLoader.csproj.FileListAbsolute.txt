@@ -1,0 +1,3 @@
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\x64\Release\Invoke-SharpLoader.csprojResolveAssemblyReference.cache
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\bin\Release\Invoke_SharpLoader.exe
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\x64\Release\Invoke_SharpLoader.exe

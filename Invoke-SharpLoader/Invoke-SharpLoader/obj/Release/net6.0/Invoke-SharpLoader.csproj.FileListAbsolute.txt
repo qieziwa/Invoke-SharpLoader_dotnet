@@ -1,0 +1,14 @@
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\bin\Release\net6.0\Invoke-SharpLoader.exe
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\bin\Release\net6.0\Invoke-SharpLoader.deps.json
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\bin\Release\net6.0\Invoke-SharpLoader.runtimeconfig.json
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\bin\Release\net6.0\Invoke-SharpLoader.dll
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\bin\Release\net6.0\Invoke-SharpLoader.pdb
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\Invoke-SharpLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\Invoke-SharpLoader.AssemblyInfoInputs.cache
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\Invoke-SharpLoader.AssemblyInfo.cs
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\Invoke-SharpLoader.csproj.CoreCompileInputs.cache
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\Invoke-SharpLoader.dll
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\refint\Invoke-SharpLoader.dll
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\Invoke-SharpLoader.pdb
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\Invoke-SharpLoader.genruntimeconfig.cache
+D:\c#程序集\Invoke-SharpLoader\Invoke-SharpLoader\obj\Release\net6.0\ref\Invoke-SharpLoader.dll
