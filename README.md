@@ -1,6 +1,6 @@
 原版项目：https://github.com/S3cur3Th1sSh1t/Invoke-SharpLoader
 
-根据该项目进行改造c#代码，以适配execute-assembly使用，更方便红队日常工作
+根据该项目改造为c#代码，以适配execute-assembly使用，更方便红队日常工作
 
 项目编译
 
