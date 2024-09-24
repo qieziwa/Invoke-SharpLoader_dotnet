@@ -10,6 +10,7 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe Invoke-SharpLoader.c
 使用方法
 
 需要先加密
+
 Invoke-SharpEncrypt -file C:\c#程序集\SharpWeb.exe -password mypassword -outfile C:\c#程序集\SharpWeb.enc
 
 放到vps的远端访问目录  
